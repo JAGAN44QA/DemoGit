@@ -15,7 +15,7 @@ public class StringClass {
 					//System.out.print(reverse[i]);
 				}
 			sar[i]=String.valueOf(reverse);
-			System.out.println(sar[i]);
+			//System.out.println(sar[i]);
 			}
 		}
 		
